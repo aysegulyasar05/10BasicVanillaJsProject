@@ -1,0 +1,26 @@
+
+
+.container{
+    margin: auto;
+    border: 1px solid black;
+    width: 95%;
+    height: 100vh;
+    background: #fcfc62;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  
+}
+.counter{
+ border: 5px solid black;
+ width: 400px;
+ height: 350px;
+ margin: auto;
+ border-radius: 10px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+ background-color: aliceblue;
+}
